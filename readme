@@ -4,7 +4,11 @@ hello world
 
 .......这是对分支的修改
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 我现在要临时解决这个问题
+=======
+dfasdfasd
+>>>>>>> Stashed changes
 =======
 dfasdfasd
 >>>>>>> Stashed changes
