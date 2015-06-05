@@ -3,4 +3,8 @@ hello world
 这个修改可能会被丢弃
 
 .......这是对分支的修改
+<<<<<<< Updated upstream
 我现在要临时解决这个问题
+=======
+dfasdfasd
+>>>>>>> Stashed changes
